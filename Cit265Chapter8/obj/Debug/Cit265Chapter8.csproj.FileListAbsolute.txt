@@ -1,0 +1,7 @@
+C:\Users\bennett253\source\repos\Cit265Chapter8\Cit265Chapter8\bin\Debug\Cit265Chapter8.exe.config
+C:\Users\bennett253\source\repos\Cit265Chapter8\Cit265Chapter8\bin\Debug\Cit265Chapter8.exe
+C:\Users\bennett253\source\repos\Cit265Chapter8\Cit265Chapter8\bin\Debug\Cit265Chapter8.pdb
+C:\Users\bennett253\source\repos\Cit265Chapter8\Cit265Chapter8\obj\Debug\Cit265Chapter8.csprojAssemblyReference.cache
+C:\Users\bennett253\source\repos\Cit265Chapter8\Cit265Chapter8\obj\Debug\Cit265Chapter8.csproj.CoreCompileInputs.cache
+C:\Users\bennett253\source\repos\Cit265Chapter8\Cit265Chapter8\obj\Debug\Cit265Chapter8.exe
+C:\Users\bennett253\source\repos\Cit265Chapter8\Cit265Chapter8\obj\Debug\Cit265Chapter8.pdb
