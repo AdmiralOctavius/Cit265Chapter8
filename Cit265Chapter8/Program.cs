@@ -60,6 +60,21 @@ namespace Cit265Chapter8
                 Console.WriteLine(item);
             }
 
+            //int num1 = int.Parse(args[0]);
+            //int num2 = int.Parse(args[1]);
+            //int num3 = int.Parse(args[2]);
+
+
+        }
+
+        static double Average(params double[] number){//Yesss
+            double total = 0;
+            foreach(var item in number)
+            {
+                total += item;
+            }
+
+            return total / number.Length;
         }
     }
 }
